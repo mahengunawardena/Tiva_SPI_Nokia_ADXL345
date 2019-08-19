@@ -8,3 +8,5 @@ SSIDataGetNonBlocking() (http://dev.ti.com/tirex/content/simplelink_msp432e4_sdk
 
 pin_map.h (http://dev.ti.com/tirex/content/simplelink_msp432e4_sdk_1_60_00_10/docs/driverlib/msp432e4/html/pin__map_8h_source.html)
 
+ADXL345 Interface with TIVA C EK-TM4C123GXL Launchpad (TM4C123GH6PM Micro)(https://e2e.ti.com/support/microcontrollers/other/f/908/t/417212)
+
