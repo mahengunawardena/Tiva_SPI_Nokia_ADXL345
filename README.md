@@ -1,5 +1,5 @@
 # Tiva_SPI_Nokia_ADXL345
-https://github.com/mahengunawardena/Tiva_I2C_Nokia_ADXL345/blob/master/Tiva_Accelerometer.c
+https://github.com/mahengunawardena/Tiva_SPI_Nokia_ADXL345/blob/master/main.c
 
 # Referances:
 CCS/EK-TM4C123GXL: I am having trouble reading ADXL345 data through spi (http://e2e.ti.com/support/microcontrollers/other/f/908/t/771919?CCS-EK-TM4C123GXL-I-am-having-trouble-reading-ADXL345-data-through-spi)
